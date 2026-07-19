@@ -108,9 +108,9 @@ Spam / Ham Prediction
 
 **Golla Venkata Durga Hasini**
 
-📧 Email: your-email@example.com
+📧 Email: hasinigolla456@gmail.com
 
-💼 LinkedIn: https://linkedin.com/in/your-profile
+💼 LinkedIn: https://www.linkedin.com/in/hasini-golla-829094301
 
 🌐 GitHub: https://github.com/hasinigolla
 
